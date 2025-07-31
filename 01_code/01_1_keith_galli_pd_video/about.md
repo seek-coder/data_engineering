@@ -1,0 +1,1 @@
+Los .py están divididos según temas más o menos generales.
