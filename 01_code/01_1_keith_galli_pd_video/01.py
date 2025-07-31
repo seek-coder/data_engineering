@@ -1,3 +1,5 @@
+# Basic concepts
+
 import pandas as pd
 
 # Crear dataframes
@@ -10,7 +12,7 @@ df = pd.DataFrame([
 
 print(df, "\n")
 
-# Mostrar encabezado
+# Mostrar primera fila
 print(df.head(1), "\n")
 
 # Mostrar última fila
