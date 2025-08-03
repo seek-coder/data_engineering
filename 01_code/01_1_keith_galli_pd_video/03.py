@@ -27,3 +27,5 @@ print(coffee.head())
 # iat y at son formas mejoradas, pero no tan usadas, de iloc y loc
 
 print(coffee.at[0, "Units Sold"]) # ¡y no me deja usar intervalos!
+
+# 21:16
